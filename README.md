@@ -1,9 +1,9 @@
-## PolarFresh FMCG Sales Performance Dashboard (2022–2024)
+# PolarFresh FMCG Sales Performance Dashboard (2022–2024)
 <p align="center">
   <img src="Screenshot%20FMCG%20dashboard.png" alt="FMCG Sales Performance Dashboard" width="1000"/>
 </p>
 
-## Project Overview
+# Project Overview
 
 The PolarFresh FMCG Sales Performance Dashboard is an interactive business intelligence project developed using Looker Studio to analyze the sales performance of a Fast-Moving Consumer Goods (FMCG) company between 2022 and 2024.
 
@@ -11,10 +11,10 @@ The dashboard transforms raw sales data into meaningful business insights, allow
 
 The objective of this project is to demonstrate how modern Business Intelligence tools can simplify business reporting by converting transactional data into visual dashboards that support faster and more informed decision-making.Rather than manually reviewing thousands of sales records, managers can quickly identify trends, evaluate product performance, compare sales channels, and monitor revenue growth through interactive filters and visualizations.
 
-## Business Problem
+# Business Problem
 FMCG companies operate in highly competitive markets where products are sold in large volumes across multiple regions, channels, and brands. Business leaders require timely insights into product performance, customer demand, and revenue trends to make strategic decisions.
 
-## Business Probems
+# Business Probems
 Traditional spreadsheet reporting often makes it difficult to identify:
 
 Which product categories generate the highest revenue.
@@ -31,7 +31,7 @@ Customer purchasing patterns.
 
 This dashboard addresses these challenges by presenting all important sales metrics in a centralized and interactive business reporting solution.
 
-## Project Objectives
+# Project Objectives
 
 The primary objectives of this project are:
 
@@ -51,7 +51,7 @@ Enable interactive business exploration through filters.
 
 Build a professional executive dashboard using Looker Studio.
 
-## About the Dataset
+# About the Dataset
 
 The project uses an FMCG sales dataset containing transactional information related to product sales from 2022 to 2024.
 
@@ -83,7 +83,7 @@ Pricing Information
 
 These variables allow multidimensional analysis of sales performance and customer demand.
 
-## Business Questions Addressed
+# Business Questions Addressed
 This dashboard helps answer several important business questions, including:
 
 How much total revenue was generated?
@@ -102,7 +102,7 @@ Which categories experience seasonal demand?
 
 Which channels should receive greater marketing investment?
 
-## Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 The dashboard summarizes business performance through four executive KPIs.
 
 **Total Revenue** :
@@ -165,7 +165,7 @@ Sales fluctuations
 Performance consistency
 The chart compares revenue trends across multiple product categories over the reporting period.
 
-## Data Preparation
+# Data Preparation
 Before building the dashboard, the dataset was prepared using Microsoft Excel.
 
 The preparation process included:
@@ -184,7 +184,7 @@ Category formatting
 Data consistency checks
 The cleaned dataset was then connected to Looker Studio for visualization.
 
-## Looker Studio Features Used
+# Looker Studio Features Used
 The dashboard demonstrates practical implementation of several Looker Studio capabilities.
 
 These include:
@@ -211,7 +211,7 @@ Cross Filtering
 
 Responsive Dashboard Layout
 
-## Business Insights
+# Business Insights
 
 The dashboard enables business users to derive several important insights.
 
@@ -227,9 +227,10 @@ Product categories exhibit different growth patterns over time.
 
 Interactive filtering enables deeper regional and channel-level analysis.
 
-## Business Value
+# Business Value
 This dashboard provides decision-makers with a centralized platform for monitoring business performance.
 It supports:
+
 Sales monitoring
 
 Revenue analysis
@@ -247,7 +248,7 @@ Strategic planning
 Data-driven decision making
 Instead of relying on static reports, stakeholders can explore the data interactively and identify opportunities for growth.
 
-## Skills Demonstrated
+# Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -275,7 +276,7 @@ Analytical Thinking
 
 Executive Reporting
 
-## Tools and Technologies
+# Tools and Technologies
 
 Through this project, I gained hands-on experience in:
 
@@ -291,7 +292,7 @@ Presenting analytical findings in a clear and visually effective format.
 
 Applying Business Intelligence concepts to real-world FMCG sales data.
 
-## Conclusion
+# Conclusion
 
 The PolarFresh FMCG Sales Performance Dashboard (2022–2024) demonstrates how Looker Studio can transform raw sales data into a comprehensive business intelligence solution. By integrating executive KPIs, category performance, brand analysis, sales channel comparison, and time-series reporting into a single interactive dashboard, the project enables stakeholders to monitor business performance efficiently and make informed strategic decisions. This project highlights practical skills in data preparation, dashboard development, sales analytics, and business storytelling, making it a strong portfolio project for Business Intelligence and Data Analytics roles.
 
