@@ -34,7 +34,7 @@ The final Looker Studio dashboard consists of multiple interactive visualization
 - **Charts:** Revenue by Category, Revenue by Brand, Revenue by Channel, and Revenue Over Time.
   
 - **Filters:** Category, Channel, and Region for interactive analysis and cross-filtering.
-- 
+  
 The Looker Studio dashboard provides a complete overview of FMCG sales performance through interactive visualizations.
 
 ## Key Insights
