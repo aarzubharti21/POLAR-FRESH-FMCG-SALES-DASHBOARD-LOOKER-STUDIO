@@ -27,25 +27,15 @@ The project includes the following analytical steps:
 - **Interactive Reporting:** Implemented dynamic filters for Category, Channel, and Region to allow users to explore the dashboard from multiple business perspectives.
 
 # Dashboard
+The final Looker Studio dashboard consists of multiple interactive visualizations that provide a comprehensive view of business performance.
 
+- **KPI Cards:** Total Revenue, Units Sold, Transactions, and Average Unit Price.
+  
+- **Charts:** Revenue by Category, Revenue by Brand, Revenue by Channel, and Revenue Over Time.
+  
+- **Filters:** Category, Channel, and Region for interactive analysis and cross-filtering.
+- 
 The Looker Studio dashboard provides a complete overview of FMCG sales performance through interactive visualizations.
-
-### KPI Cards
-- Total Revenue
-- Total Units Sold
-- Total Transactions
-- Average Unit Price
-
-### Dashboard Visuals
-- Revenue by Category
-- Revenue by Sales Channel
-- Revenue by Brand
-- Monthly Revenue Trend (2022–2024)
-
-### Interactive Filters
-- Category
-- Channel
-- Region
 
 ## Key Insights
 
@@ -56,12 +46,15 @@ The Looker Studio dashboard provides a complete overview of FMCG sales performan
 - Regional and channel filters help identify performance differences across markets.
 
 # Recommendations
+Based on the dashboard analysis, the following business recommendations are suggested:
 
-- Increase inventory and promotional campaigns for high-performing categories such as Yogurt.
-- Strengthen marketing efforts for underperforming brands to improve market share.
-- Continue investing in all major sales channels while optimizing channel-specific strategies.
-- Use regional performance insights to allocate inventory and promotional budgets more efficiently.
-- Monitor monthly sales trends to improve forecasting and inventory planning.
+- **Focus on High-Performing Categories & Brands:** Increase marketing investments and product availability for top-selling categories and brands to maximize revenue.
+
+- **Improve Low-Performing Products:** Introduce targeted promotions, discounts, and pricing strategies to improve sales of underperforming products.
+
+- **Optimize Inventory Planning:** Use monthly sales trends to forecast demand accurately and maintain optimal inventory levels.
+
+- **Enhance Regional & Channel Performance:** Analyze sales across regions and channels to identify growth opportunities and allocate resources more effectively.
 
 ## AUTHOR
 Aarzu Bharti
