@@ -10,7 +10,7 @@ The primary objective of this project was to develop a comprehensive monitoring 
 
 ## Analysis Done
 
-The file in which the analysis is done is FMCG Sales & Distribution Dashboard (Looker Studio)
+> The file in which the analysis is done is **FMCG Sales & Distribution Dashboard (Looker Studio)**
 
 A structured data preparation and business intelligence approach was implemented to ensure accurate reporting, optimized performance, and interactive visualizations. The core analytical phases included:
 
