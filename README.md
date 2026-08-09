@@ -1,6 +1,6 @@
 # PolarFresh FMCG Sales Performance (2022–2024) LOOKER STUDIO Project 
 
-## Overview
+## Project Perspective
 
 I am excited to present the **FMCG Sales & Distribution Performance Dashboard**, an interactive Looker Studio analytics project designed to transform raw Fast-Moving Consumer Goods (FMCG) transactional data into actionable business intelligence. This project provides a centralized reporting solution that enables stakeholders to monitor sales performance, revenue generation, inventory availability, regional distribution, product categories, promotional effectiveness, and delivery efficiency. Through dynamic visualizations and interactive filtering, the dashboard empowers business users to make informed, data-driven decisions for improving operational performance and maximizing profitability.
 
@@ -8,7 +8,7 @@ I am excited to present the **FMCG Sales & Distribution Performance Dashboard**,
 
 The primary objective of this project was to develop a comprehensive monitoring solution for FMCG sales and distribution performance. The available dataset consisted of transactional sales records containing product information, brands, categories, regions, sales channels, pricing, inventory availability, promotions, delivery timelines, and revenue. Analyzing sales trends and operational efficiency across multiple business dimensions using raw data alone was challenging. Therefore, the project focused on building an interactive Looker Studio dashboard capable of simplifying business analysis while delivering meaningful insights into sales, supply chain operations, and customer demand.
 
-## Analysis Done
+## Work Performed
 
 > The file in which the analysis is done is **FMCG Sales & Distribution Dashboard (Looker Studio)**
 
@@ -26,11 +26,9 @@ A structured data preparation and business intelligence approach was implemented
   
 - **Interactive Dashboard Development**: Designed a dynamic Looker Studio dashboard incorporating interactive filters, scorecards, trend charts, and cross-filtering capabilities to enable comprehensive business exploration.
 
-## Dashboard
+## Dashboard Insights
 
 The final deliverable consists of a highly interactive Looker Studio dashboard that provides a complete overview of FMCG sales and distribution performance through dynamic visualizations and advanced filtering capabilities.
-
-## Dashboard Features
 
 - **Business Performance Overview** : Displays key performance indicators including **Total Revenue**, **Total Units Sold**, **Total Delivered Quantity**, **Total Products (SKU)**, **Average Delivery Time**, and **Stock Availability**, providing an instant snapshot of business performance.
   
