@@ -24,10 +24,6 @@ A structured data preparation and business intelligence approach was implemented
   
 - **Regional & Channel Analysis**: Compared business performance across multiple regions and distribution channels to identify high-performing markets and optimize sales strategies.
   
-- **Promotion Effectiveness Analysis**: Assessed the impact of promotional campaigns on product sales and revenue generation to support future marketing decisions.
-  
-- **Operational Performance Analysis**: Monitored inventory levels and delivery timelines to evaluate supply chain efficiency and identify operational bottlenecks.
-  
 - **Interactive Dashboard Development**: Designed a dynamic Looker Studio dashboard incorporating interactive filters, scorecards, trend charts, and cross-filtering capabilities to enable comprehensive business exploration.
 
 ## Dashboard
@@ -46,15 +42,11 @@ The final deliverable consists of a highly interactive Looker Studio dashboard t
   
 - **Sales Channel Analysis**: Compares Retail, Wholesale, Discount, Online, and other distribution channels to determine the most profitable sales channels.
   
-- **Inventory Performance Analysis**: Monitors stock availability and delivered quantities to identify inventory shortages and improve supply chain planning.
-  
-- **Promotion Analysis**: Measures the impact of promotional activities on sales performance, helping evaluate campaign effectiveness and pricing strategies.
-  
 - **Delivery Performance Analysis**: Tracks delivery timelines across transactions to monitor logistics efficiency and improve customer satisfaction.
   
 - **Interactive Filters**: Enables users to dynamically explore business performance using filters for Brand, Category, Segment, Region, Sales Channel, Pack Type, Promotion Status, and Transaction Date.
 
-## Recommendations
+## Business Suggestions
 
 Drawing from the interactive exploration of the data, the following strategic actions are highly recommended to maximize revenue growth and operational efficiency:
 
@@ -63,10 +55,6 @@ Drawing from the interactive exploration of the data, the following strategic ac
 - **Optimize Regional Distribution**: Expand operations and promotional efforts in high-performing regions while developing improvement strategies for lower-performing markets.
   
 - **Improve Inventory Planning**: Continuously monitor stock availability and forecast product demand to minimize stock-outs and reduce excess inventory.
-  
-- **Strengthen Promotion Strategy**: Focus promotional campaigns on products demonstrating the highest sales uplift while reviewing ineffective promotions to improve marketing ROI.
-  
-- **Enhance Distribution Channel Performance**: Invest in sales channels delivering superior revenue and customer engagement while optimizing underperforming distribution networks.
   
 - **Reduce Delivery Time**: Improve logistics planning and supply chain coordination to shorten delivery timelines and enhance customer satisfaction.
   
